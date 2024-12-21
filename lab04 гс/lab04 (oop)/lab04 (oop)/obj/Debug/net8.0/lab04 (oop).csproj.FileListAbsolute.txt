@@ -1,0 +1,28 @@
+D:\уник\3 сем\ООП\lab04\lab04 (oop)\lab04 (oop)\bin\Debug\net8.0\lab04 (oop).exe
+D:\уник\3 сем\ООП\lab04\lab04 (oop)\lab04 (oop)\bin\Debug\net8.0\lab04 (oop).deps.json
+D:\уник\3 сем\ООП\lab04\lab04 (oop)\lab04 (oop)\bin\Debug\net8.0\lab04 (oop).runtimeconfig.json
+D:\уник\3 сем\ООП\lab04\lab04 (oop)\lab04 (oop)\bin\Debug\net8.0\lab04 (oop).dll
+D:\уник\3 сем\ООП\lab04\lab04 (oop)\lab04 (oop)\bin\Debug\net8.0\lab04 (oop).pdb
+D:\уник\3 сем\ООП\lab04\lab04 (oop)\lab04 (oop)\obj\Debug\net8.0\lab04 (oop).GeneratedMSBuildEditorConfig.editorconfig
+D:\уник\3 сем\ООП\lab04\lab04 (oop)\lab04 (oop)\obj\Debug\net8.0\lab04 (oop).AssemblyInfoInputs.cache
+D:\уник\3 сем\ООП\lab04\lab04 (oop)\lab04 (oop)\obj\Debug\net8.0\lab04 (oop).AssemblyInfo.cs
+D:\уник\3 сем\ООП\lab04\lab04 (oop)\lab04 (oop)\obj\Debug\net8.0\lab04 (oop).csproj.CoreCompileInputs.cache
+D:\уник\3 сем\ООП\lab04\lab04 (oop)\lab04 (oop)\obj\Debug\net8.0\lab04 (oop).dll
+D:\уник\3 сем\ООП\lab04\lab04 (oop)\lab04 (oop)\obj\Debug\net8.0\refint\lab04 (oop).dll
+D:\уник\3 сем\ООП\lab04\lab04 (oop)\lab04 (oop)\obj\Debug\net8.0\lab04 (oop).pdb
+D:\уник\3 сем\ООП\lab04\lab04 (oop)\lab04 (oop)\obj\Debug\net8.0\lab04 (oop).genruntimeconfig.cache
+D:\уник\3 сем\ООП\lab04\lab04 (oop)\lab04 (oop)\obj\Debug\net8.0\ref\lab04 (oop).dll
+D:\уник\3 сем\ООП\lab04 гс\lab04 (oop)\lab04 (oop)\bin\Debug\net8.0\lab04 (oop).exe
+D:\уник\3 сем\ООП\lab04 гс\lab04 (oop)\lab04 (oop)\bin\Debug\net8.0\lab04 (oop).deps.json
+D:\уник\3 сем\ООП\lab04 гс\lab04 (oop)\lab04 (oop)\bin\Debug\net8.0\lab04 (oop).runtimeconfig.json
+D:\уник\3 сем\ООП\lab04 гс\lab04 (oop)\lab04 (oop)\bin\Debug\net8.0\lab04 (oop).dll
+D:\уник\3 сем\ООП\lab04 гс\lab04 (oop)\lab04 (oop)\bin\Debug\net8.0\lab04 (oop).pdb
+D:\уник\3 сем\ООП\lab04 гс\lab04 (oop)\lab04 (oop)\obj\Debug\net8.0\lab04 (oop).GeneratedMSBuildEditorConfig.editorconfig
+D:\уник\3 сем\ООП\lab04 гс\lab04 (oop)\lab04 (oop)\obj\Debug\net8.0\lab04 (oop).AssemblyInfoInputs.cache
+D:\уник\3 сем\ООП\lab04 гс\lab04 (oop)\lab04 (oop)\obj\Debug\net8.0\lab04 (oop).AssemblyInfo.cs
+D:\уник\3 сем\ООП\lab04 гс\lab04 (oop)\lab04 (oop)\obj\Debug\net8.0\lab04 (oop).csproj.CoreCompileInputs.cache
+D:\уник\3 сем\ООП\lab04 гс\lab04 (oop)\lab04 (oop)\obj\Debug\net8.0\lab04 (oop).dll
+D:\уник\3 сем\ООП\lab04 гс\lab04 (oop)\lab04 (oop)\obj\Debug\net8.0\refint\lab04 (oop).dll
+D:\уник\3 сем\ООП\lab04 гс\lab04 (oop)\lab04 (oop)\obj\Debug\net8.0\lab04 (oop).pdb
+D:\уник\3 сем\ООП\lab04 гс\lab04 (oop)\lab04 (oop)\obj\Debug\net8.0\lab04 (oop).genruntimeconfig.cache
+D:\уник\3 сем\ООП\lab04 гс\lab04 (oop)\lab04 (oop)\obj\Debug\net8.0\ref\lab04 (oop).dll
