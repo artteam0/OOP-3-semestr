@@ -1,0 +1,5 @@
+D:\уник\3 сем\ООП\lab12\lab12 (oop)\lab12 (oop)\bin
+D:\уник\3 сем\ООП\lab12\lab12 (oop)\lab12 (oop)\KAAInspect
+D:\уник\3 сем\ООП\lab12\lab12 (oop)\lab12 (oop)\lab12 (oop).csproj
+D:\уник\3 сем\ООП\lab12\lab12 (oop)\lab12 (oop)\obj
+D:\уник\3 сем\ООП\lab12\lab12 (oop)\lab12 (oop)\Program.cs

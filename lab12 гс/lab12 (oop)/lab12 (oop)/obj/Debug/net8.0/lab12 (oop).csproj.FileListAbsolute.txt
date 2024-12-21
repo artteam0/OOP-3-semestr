@@ -1,0 +1,14 @@
+D:\уник\3 сем\ООП\lab12\lab12 (oop)\lab12 (oop)\bin\Debug\net8.0\lab12 (oop).exe
+D:\уник\3 сем\ООП\lab12\lab12 (oop)\lab12 (oop)\bin\Debug\net8.0\lab12 (oop).deps.json
+D:\уник\3 сем\ООП\lab12\lab12 (oop)\lab12 (oop)\bin\Debug\net8.0\lab12 (oop).runtimeconfig.json
+D:\уник\3 сем\ООП\lab12\lab12 (oop)\lab12 (oop)\bin\Debug\net8.0\lab12 (oop).dll
+D:\уник\3 сем\ООП\lab12\lab12 (oop)\lab12 (oop)\bin\Debug\net8.0\lab12 (oop).pdb
+D:\уник\3 сем\ООП\lab12\lab12 (oop)\lab12 (oop)\obj\Debug\net8.0\lab12 (oop).GeneratedMSBuildEditorConfig.editorconfig
+D:\уник\3 сем\ООП\lab12\lab12 (oop)\lab12 (oop)\obj\Debug\net8.0\lab12 (oop).AssemblyInfoInputs.cache
+D:\уник\3 сем\ООП\lab12\lab12 (oop)\lab12 (oop)\obj\Debug\net8.0\lab12 (oop).AssemblyInfo.cs
+D:\уник\3 сем\ООП\lab12\lab12 (oop)\lab12 (oop)\obj\Debug\net8.0\lab12 (oop).csproj.CoreCompileInputs.cache
+D:\уник\3 сем\ООП\lab12\lab12 (oop)\lab12 (oop)\obj\Debug\net8.0\lab12 (oop).dll
+D:\уник\3 сем\ООП\lab12\lab12 (oop)\lab12 (oop)\obj\Debug\net8.0\refint\lab12 (oop).dll
+D:\уник\3 сем\ООП\lab12\lab12 (oop)\lab12 (oop)\obj\Debug\net8.0\lab12 (oop).pdb
+D:\уник\3 сем\ООП\lab12\lab12 (oop)\lab12 (oop)\obj\Debug\net8.0\lab12 (oop).genruntimeconfig.cache
+D:\уник\3 сем\ООП\lab12\lab12 (oop)\lab12 (oop)\obj\Debug\net8.0\ref\lab12 (oop).dll
