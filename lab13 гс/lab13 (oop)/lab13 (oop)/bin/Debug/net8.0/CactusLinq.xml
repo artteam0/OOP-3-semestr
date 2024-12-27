@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CACTUS>
+  <Cactus>
+    <Name>Кактус</Name>
+    <Cost>100</Cost>
+  </Cactus>
+  <cACTUS>
+    <Name>Кактусище</Name>
+    <Cost>100000</Cost>
+  </cACTUS>
+</CACTUS>
