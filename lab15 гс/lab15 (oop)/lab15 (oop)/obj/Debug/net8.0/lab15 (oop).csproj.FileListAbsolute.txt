@@ -1,0 +1,14 @@
+D:\уник\3 сем\ООП\lab15\lab15 (oop)\lab15 (oop)\bin\Debug\net8.0\lab15 (oop).exe
+D:\уник\3 сем\ООП\lab15\lab15 (oop)\lab15 (oop)\bin\Debug\net8.0\lab15 (oop).deps.json
+D:\уник\3 сем\ООП\lab15\lab15 (oop)\lab15 (oop)\bin\Debug\net8.0\lab15 (oop).runtimeconfig.json
+D:\уник\3 сем\ООП\lab15\lab15 (oop)\lab15 (oop)\bin\Debug\net8.0\lab15 (oop).dll
+D:\уник\3 сем\ООП\lab15\lab15 (oop)\lab15 (oop)\bin\Debug\net8.0\lab15 (oop).pdb
+D:\уник\3 сем\ООП\lab15\lab15 (oop)\lab15 (oop)\obj\Debug\net8.0\lab15 (oop).GeneratedMSBuildEditorConfig.editorconfig
+D:\уник\3 сем\ООП\lab15\lab15 (oop)\lab15 (oop)\obj\Debug\net8.0\lab15 (oop).AssemblyInfoInputs.cache
+D:\уник\3 сем\ООП\lab15\lab15 (oop)\lab15 (oop)\obj\Debug\net8.0\lab15 (oop).AssemblyInfo.cs
+D:\уник\3 сем\ООП\lab15\lab15 (oop)\lab15 (oop)\obj\Debug\net8.0\lab15 (oop).csproj.CoreCompileInputs.cache
+D:\уник\3 сем\ООП\lab15\lab15 (oop)\lab15 (oop)\obj\Debug\net8.0\lab15 (oop).dll
+D:\уник\3 сем\ООП\lab15\lab15 (oop)\lab15 (oop)\obj\Debug\net8.0\refint\lab15 (oop).dll
+D:\уник\3 сем\ООП\lab15\lab15 (oop)\lab15 (oop)\obj\Debug\net8.0\lab15 (oop).pdb
+D:\уник\3 сем\ООП\lab15\lab15 (oop)\lab15 (oop)\obj\Debug\net8.0\lab15 (oop).genruntimeconfig.cache
+D:\уник\3 сем\ООП\lab15\lab15 (oop)\lab15 (oop)\obj\Debug\net8.0\ref\lab15 (oop).dll
